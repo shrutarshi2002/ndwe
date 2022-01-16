@@ -1,0 +1,145 @@
+
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+.istp{
+  padding-top: 50px;
+  font-family: 'Mochiy Pop P One',cursive;
+  font-size: 30px;
+
+  background-color: #ccffff;
+  text-align: center;
+  height: 646px;
+
+}
+hr{
+  border-style: solid none none;
+  border-width: thick;
+}
+
+.im{
+  position: relative;
+  left: 400px;
+  margin: 0;
+
+
+
+
+
+}
+#cpp{
+  width: 280px;
+}
+.pyth{
+  width: 50px;
+  height: 50px;
+}
+
+.profile{
+  height: 200px;
+  width: 200px;
+}
+.cloud{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  bottom:400px;
+  right:750px;
+}
+.hill{
+  position: relative;
+  left: 50px;
+  bottom: 30px;
+
+
+
+
+
+}
+#para{
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 30px;
+
+
+}
+
+
+.ist{
+  font-family: cursive;
+
+
+
+
+}
+.hea{
+  background-color: white;
+  border-style: dotted none none;
+  border-width: 10px;
+
+  border-color:grey;
+  width: 5%;
+}
+.nd{
+
+}
+#skill{
+  font-family: cursive;
+  color: #0073e6;
+}
+#para1{
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+  color: white
+  text-align: center;
+}
+
+.get{
+  font-family: cursive;
+  font-weight: bold;
+  color:#1a8cff;
+  font-size: 40px;
+}
+h4{
+  color: #0073e6;
+}
+#boot{
+  background-color: #00b3b3;
+  font-size: 25px;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+.last{
+  text-align: center;
+  background-color: #00cccc;
+  height: 50px;
+
+}
+.para2{
+  font-size: 20px;
+  position: relative;
+  top: 18px;
+  right: 20px;
+}
+.para3{
+  font-size: 20px;
+  position: relative;
+  left: 70px;
+  bottom: 37px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
